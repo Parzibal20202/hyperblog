@@ -1,1 +1,2 @@
 Esto son los ejercicios de clases de platzi sobre el curso profecional de Git y GitHub 
+Este es otro parrafo 
