@@ -1,2 +1,3 @@
 Esto son los ejercicios de clases de platzi sobre el curso profecional de Git y GitHub 
 Este es otro parrafo 
+esto es la prueba de anita en colaboracion con platzi
